@@ -1,3 +1,8 @@
-print('Hello R4S')
-print('Привет студентам Sky University!!!')
-print('How are you dooing?')
+print('How are you doing?')
+height = 1.95
+weight = 96
+bmi = weight/height**2
+print('BMI =' + str(bmi))
+#lsjbgkzf;ka hgadg;ad;g
+#kjzb fdgklzdfkgadh f;gk
+#lkjf gzdflkg hdasifhg aldk
