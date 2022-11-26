@@ -1,4 +1,5 @@
 print('How are you doing?')
+print('Hello')
 height = 1.95
 weight = 96
 bmi = weight/height**2
